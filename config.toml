@@ -56,7 +56,8 @@ modifiers = [ "super" ]
 
 [autostart]
 exec = [
-  "xsetroot -cursor_name left_ptr && ~/.config/qtile/autostart.sh",
+  "xsetroot -cursor_name left_ptr"
+  "~/.config/nimdow/autostart.sh",
 ]
 
 [autostart]
